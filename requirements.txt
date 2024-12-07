@@ -1,0 +1,11 @@
+javalang==0.13.0
+nltk==3.8.1
+numpy==1.19.5
+sacrebleu==2.4.2
+spacy==3.2.6
+tokenizers==0.13.3
+torch==1.10.1+cu113
+torchaudio==0.10.1+cu113
+torchvision==0.11.2+cu113
+transformers==4.32.1
+tree-sitter==0.20.4
